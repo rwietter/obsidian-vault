@@ -1,0 +1,3 @@
+- ⌘ [Matematica para programadores](https://github.com/Webschool-io/matematica-para-programadores)
+- ⌘ [Aysmptotic Notations](https://www.studytonight.com/data-structures/aysmptotic-notations)
+- ⌘ [Machine Learning](https://github.com/microsoft/ML-For-Beginners)
