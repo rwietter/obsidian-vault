@@ -7,8 +7,13 @@
         "id": "82e010f4c9d17394",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Repository/blockchain/polkadot/Polkadot.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Repository/blockchain/polkadot/Polkadot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +107,15 @@
   },
   "active": "82e010f4c9d17394",
   "lastOpenFiles": [
+    "Repository/blockchain/polkadot/Polkadot.md",
+    "Repository/blockchain/bitcoin/Bitcoin.md",
+    "Repository/blockchain/Sem título.md",
     "2022-W29.md",
     "Streaming/ToDo Filmes&Séries.md",
     "Repository/linguagens e frameworks/sql/readme.md",
     "Repository/faculdade/intelig-artificial/lógica fuzzy.md",
     "Day Planners/Day Planner-20220705.md",
     "Inteligência Artificial/Séries Temporais/séries temporais.md",
-    "Inteligência Artificial/Séries Temporais/trabalhos/Time Series - Reply.pdf",
-    "Inteligência Artificial/Séries Temporais/trabalhos/time series tools.md",
-    "Day Planners/Day Planner-20220704.md",
-    "ishadeed.com/article/responsive-design-height.md"
+    "Inteligência Artificial/Séries Temporais/trabalhos/Time Series - Reply.pdf"
   ]
 }
