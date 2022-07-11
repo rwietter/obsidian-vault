@@ -11,4 +11,4 @@
 
 ## Summary
 
-- [Comece pelo mais difícil](Notas/books/comece-pelo-mais-dificil/readme.md)
+- [Comece pelo mais difícil](Repository/books/comece-pelo-mais-dificil/readme.md)

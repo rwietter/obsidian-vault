@@ -37,6 +37,6 @@
 
 ### Others
 
-- [NoSQL](Notas/databases/nosql/README.md)
-- [Queue](Notas/databases/queue/README.md)
-- [Cache](Notas/databases/cache/README.md)
+- [NoSQL](Repository/databases/nosql/README.md)
+- [Queue](Repository/databases/queue/README.md)
+- [Cache](Repository/databases/cache/README.md)
