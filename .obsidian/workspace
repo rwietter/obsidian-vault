@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "38477c8f6abca889",
+        "id": "82e010f4c9d17394",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -84,10 +84,10 @@
             }
           },
           {
-            "id": "99d77034680c512f",
+            "id": "9f63a2ab972b4ae7",
             "type": "leaf",
             "state": {
-              "type": "timeline",
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
@@ -99,17 +99,17 @@
     "width": 427.71697998046875,
     "collapsed": true
   },
-  "active": "38477c8f6abca889",
+  "active": "82e010f4c9d17394",
   "lastOpenFiles": [
+    "2022-W29.md",
+    "Streaming/ToDo Filmes&Séries.md",
+    "Notas/linguagens e frameworks/sql/readme.md",
     "Notas/faculdade/intelig-artificial/lógica fuzzy.md",
     "Day Planners/Day Planner-20220705.md",
     "Inteligência Artificial/Séries Temporais/séries temporais.md",
     "Inteligência Artificial/Séries Temporais/trabalhos/Time Series - Reply.pdf",
     "Inteligência Artificial/Séries Temporais/trabalhos/time series tools.md",
     "Day Planners/Day Planner-20220704.md",
-    "ishadeed.com/article/responsive-design-height.md",
-    "Notas/tasks/README.md",
-    "Notas/tips/css/content-visibility.md",
-    "Notas/tips/css/font metrics override descriptors.md"
+    "ishadeed.com/article/responsive-design-height.md"
   ]
 }

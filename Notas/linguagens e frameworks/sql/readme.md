@@ -8,6 +8,10 @@ O SQL é composto por 3 sublinguagens principais:
 3. Data Control Language (DCL): para controlar o acesso dos dados armazenados nos bancos de dados
 
 
+![](https://pbs.twimg.com/media/FXTl4GUXwAMt054?format=jpg&name=large)
+
+
+
 ### Chapter 2: Identifier
 
 

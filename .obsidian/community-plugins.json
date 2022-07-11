@@ -3,7 +3,7 @@
   "table-editor-obsidian",
   "calendar",
   "obsidian-mind-map",
-  "obsidian-day-planner",
   "obsidian-outliner",
-  "cm-editor-syntax-highlight-obsidian"
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-git"
 ]

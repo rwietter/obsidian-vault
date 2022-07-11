@@ -1,4 +1,24 @@
 ### Exercício
+
+$(x, T(x), U, G, M)$
+
+Onde:
+-   X = nome da variável linguística. Exemplo: X = Idade;
+-   T(x) = conjunto de termos de X, ou seja, o conjunto de nomes dos valores linguísticos de X, definido para cada valor em U. Exemplo: T(x) = {Jovem, Maduro, Idoso};
+-   U = é o universo de discurso. Exemplo: U = (0:90);
+-   G = regra sintática (geralmente um gramática) para gerar os valores de X como uma composição de termos de T(x);
+-   Conectivos lógicos (negação, interseção e união), modificadores e delimitadores:
+	-   Interpretação de Jovem como uma idade inferior a cerca de 20 anos;
+	-   Maduro como a idade de 40 a 50;
+	-   Idoso como uma idade superior a 70.
+-   M = regra semântica pra associar a cada valor gerado por G (regra sintática), um conjunto fuzzy em U
+	- Jovem = {1/10; 1/20; 0.5/30; 0.1/40; 0/50}
+	- Maduro = {0/10; 0.1/20; 0.5/30; 1/40; 1/50; 0.5/60; 0.1/70; 0/80}
+	- Idoso = {0/40; 0.1}
+
+
+**
+- 
 - [x] Fuzificação
 - [ ] Base de conhecimento
 - [ ] Máquina de Inferência
@@ -43,3 +63,16 @@ $$
 {0 = 0.8, 80 = 0.2, 20 = 0.8, 100 = 0.0, 40 = 0.8, 60 = 0.2}
 
 - [ ] Pegar a pertinência das possibilidades: Q1: 1.0 | Q2: 0.8 | Q2: 0.2
+$$\begin{array}\
+	A_i\ |\ B_i\ /\ C_i \\
+	------ \\
+    NS \ | \  SP \ 	/ \   B\\
+    NS \ | \ S	\ / \ I
+\end{array}
+$$
+
+Arthur: {0=0.2, 80=0.2, 20=0.2, 100=0.0, 40=0.2, 60=0.8}
+Meu: {0=0.2, 80=0.2, 20=0.2, 100=0.0, 40=0.2, 60=0.8}
+
+uniao: {0=0.2, 80=0.2, 20=0.2, 100=0.0, 40=0.2, 60=0.8}
+uniao: {0=0.2, 80=0.2, 20=0.2, 100=0.0, 40=0.2, 60=0.8}
