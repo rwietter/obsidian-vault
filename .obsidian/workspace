@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Repository/cursos/omnistack.md",
+            "file": "Repository/blockchain/redes.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Repository/cursos/omnistack.md",
+                "file": "Repository/blockchain/redes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +107,7 @@
   },
   "active": "0d1c1b4724628ba5",
   "lastOpenFiles": [
+    "Repository/blockchain/redes.md",
     "Repository/cursos/omnistack.md",
     "Repository/devdocs.md",
     "Repository/política/Política.md",
@@ -114,7 +115,6 @@
     "Repository/blockchain/polkadot/Polkadot.md",
     "Repository/devtools.md",
     "Repository/blockchain/bitcoin/Bitcoin.md",
-    "Repository/blockchain/Sem título.md",
     "2022-W29.md",
     "Streaming/ToDo Filmes&Séries.md"
   ]
