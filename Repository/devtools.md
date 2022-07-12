@@ -76,6 +76,7 @@
 - 🔧 [Regex 101](https://regex101.com/)
 - 🔧 [Roadmap Study](https://roadmap.sh/)
 - 🔧 [GNU Stow](http://brandon.invergo.net/news/2012-05-26-using-gnu-stow-to-manage-your-dotfiles.html)
+- 🔧 [Chrome releases](https://chromestatus.com/features#milestone%3D102)
 
 #### Performance
 
