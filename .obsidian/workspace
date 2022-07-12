@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "82e010f4c9d17394",
+        "id": "0d1c1b4724628ba5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Repository/blockchain/polkadot/Polkadot.md",
+            "file": "Repository/cursos/omnistack.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Repository/blockchain/polkadot/Polkadot.md",
+                "file": "Repository/cursos/omnistack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,17 +105,17 @@
     "width": 427.71697998046875,
     "collapsed": true
   },
-  "active": "82e010f4c9d17394",
+  "active": "0d1c1b4724628ba5",
   "lastOpenFiles": [
+    "Repository/cursos/omnistack.md",
+    "Repository/devdocs.md",
+    "Repository/política/Política.md",
+    "Repository/quotes/westworld.md",
     "Repository/blockchain/polkadot/Polkadot.md",
     "Repository/devtools.md",
     "Repository/blockchain/bitcoin/Bitcoin.md",
     "Repository/blockchain/Sem título.md",
     "2022-W29.md",
-    "Streaming/ToDo Filmes&Séries.md",
-    "Repository/linguagens e frameworks/sql/readme.md",
-    "Repository/faculdade/intelig-artificial/lógica fuzzy.md",
-    "Day Planners/Day Planner-20220705.md",
-    "Inteligência Artificial/Séries Temporais/séries temporais.md"
+    "Streaming/ToDo Filmes&Séries.md"
   ]
 }

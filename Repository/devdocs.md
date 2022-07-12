@@ -1,5 +1,7 @@
 ### Devdocs
 
+- [JStherightway](http://jstherightway.org/pt-br/)
+- [Javascript Info](https://javascript.info/)
 - [Typescript cheatsheet](https://react-typescript-cheatsheet.netlify.app/docs/basic/getting-started/forms_and_events/)
 - [Stitches](https://stitches.dev/docs/api)
 - [Zustand](https://github.com/pmndrs/zustand)
