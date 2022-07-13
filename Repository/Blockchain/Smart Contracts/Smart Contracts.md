@@ -1,0 +1,1 @@
+Nos Smart Contracts, os idealizadores apresentam um contrato de projeto e os investidores podem investir com cryptomoedas naquele projeto, com a garantia que o dinheiro será pago se o projeto for entregue e que o "intermediário" não vai falir, já que é um contrado digital sem uma instituição intermediária central.

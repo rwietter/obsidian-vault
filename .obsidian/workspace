@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "046a68a3cfbfdfda",
+        "id": "e0e8d5c8304b07d5",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Repository/Blockchain/Web3.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Repository/Blockchain/Web3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +105,17 @@
     "width": 427.71697998046875,
     "collapsed": true
   },
-  "active": "046a68a3cfbfdfda",
+  "active": "e0e8d5c8304b07d5",
   "lastOpenFiles": [
-    "Repository/blockchain/roadmap.md",
-    "Repository/política/Política.md",
-    "Repository/blockchain/redes.md",
-    "Repository/cursos/omnistack.md",
-    "Repository/devdocs.md",
-    "Repository/quotes/westworld.md",
-    "Repository/blockchain/polkadot/Polkadot.md",
-    "Repository/devtools.md",
-    "Repository/blockchain/bitcoin/Bitcoin.md",
-    "2022-W29.md"
+    "Repository/Blockchain/Smart Contracts/Smart Contracts.md",
+    "Repository/Blockchain/NFTs/NFTs.md",
+    "Marketplaces Metaverse Cryptomedia.md",
+    "Repository/Blockchain/Web3.md",
+    "Repository/Blockchain/Consensus Protocols.md",
+    "Repository/Blockchain/Cryptocurrency/Cryptocurrency.md",
+    "Repository/Blockchain/Cryptocurrency/Altcoins.md",
+    "Repository/Blockchain/DeFi/DeFi.md",
+    "Repository/Blockchain/Networks/Networks.md",
+    "Repository/Blockchain/Networks/Fantom/Fantom.md"
   ]
 }
