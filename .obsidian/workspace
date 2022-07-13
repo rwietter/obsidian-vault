@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0d1c1b4724628ba5",
+        "id": "046a68a3cfbfdfda",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Repository/política/Política.md",
+            "file": "Repository/blockchain/redes.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Repository/política/Política.md",
+                "file": "Repository/blockchain/redes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,12 +105,12 @@
     "width": 427.71697998046875,
     "collapsed": true
   },
-  "active": "0d1c1b4724628ba5",
+  "active": "046a68a3cfbfdfda",
   "lastOpenFiles": [
+    "Repository/política/Política.md",
     "Repository/blockchain/redes.md",
     "Repository/cursos/omnistack.md",
     "Repository/devdocs.md",
-    "Repository/política/Política.md",
     "Repository/quotes/westworld.md",
     "Repository/blockchain/polkadot/Polkadot.md",
     "Repository/devtools.md",
