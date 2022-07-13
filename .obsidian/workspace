@@ -7,13 +7,8 @@
         "id": "046a68a3cfbfdfda",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Repository/blockchain/roadmap.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -78,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Repository/blockchain/roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +101,7 @@
   },
   "active": "046a68a3cfbfdfda",
   "lastOpenFiles": [
+    "Repository/blockchain/roadmap.md",
     "Repository/política/Política.md",
     "Repository/blockchain/redes.md",
     "Repository/cursos/omnistack.md",
@@ -115,7 +110,6 @@
     "Repository/blockchain/polkadot/Polkadot.md",
     "Repository/devtools.md",
     "Repository/blockchain/bitcoin/Bitcoin.md",
-    "2022-W29.md",
-    "Streaming/ToDo Filmes&Séries.md"
+    "2022-W29.md"
   ]
 }
