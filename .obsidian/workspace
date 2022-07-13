@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Repository/blockchain/redes.md",
+            "file": "Repository/política/Política.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Repository/blockchain/redes.md",
+                "file": "Repository/política/Política.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",

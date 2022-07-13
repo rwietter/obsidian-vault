@@ -11,4 +11,8 @@ Pandemia
 
 Governo
 - [Ministério da Economia publica portaria que autoriza servidores federais aposentados e militares da reserva a receber salários acima do teto](https://twitter.com/eixopolitico/status/1418743110465728517?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed&ref_url=https%3A%2F%2Fwww.notion.so%2Frwietter%2F15d6c2426bab435b958021ce505da7ad%3Fv%3Dba1317adebbc406494b04b9dfe24d9e7%26p%3D263753912d2e43c2a861816a3b24be3b)
-- 
+
+Corrupção
+- [PF prende ex-ministro Milton Ribeiro e pastores investigados por suposto esquema de desvio de verbas na Educação.](https://g1.globo.com/politica/noticia/2022/06/22/pf-faz-operacao-de-busca-em-enderecos-ligados-a-milton-ribeiro-e-pastores-que-atuavam-no-mec.ghtml)
+- [Após denunciar interferência em investigação, Bruno Calandrini pode acabar punido em sindicância interna.](https://www.metropoles.com/colunas/rodrigo-rangel/ha-uma-arapuca-na-pf-para-o-delegado-que-prendeu-milton-ribeiro)
+- [Ordem superior impediu transferência de Ribeiro, diz delegado da PF em carta.](https://www.cnnbrasil.com.br/politica/ordem-superior-impediu-transferencia-de-ribeiro-diz-delegado-da-pf-em-carta/)
