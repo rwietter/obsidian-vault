@@ -16,3 +16,5 @@ Corrupção
 - [PF prende ex-ministro Milton Ribeiro e pastores investigados por suposto esquema de desvio de verbas na Educação.](https://g1.globo.com/politica/noticia/2022/06/22/pf-faz-operacao-de-busca-em-enderecos-ligados-a-milton-ribeiro-e-pastores-que-atuavam-no-mec.ghtml)
 - [Após denunciar interferência em investigação, Bruno Calandrini pode acabar punido em sindicância interna.](https://www.metropoles.com/colunas/rodrigo-rangel/ha-uma-arapuca-na-pf-para-o-delegado-que-prendeu-milton-ribeiro)
 - [Ordem superior impediu transferência de Ribeiro, diz delegado da PF em carta.](https://www.cnnbrasil.com.br/politica/ordem-superior-impediu-transferencia-de-ribeiro-diz-delegado-da-pf-em-carta/)
+- [General lobista de mineradora acusada pelo MPF foi recebido 18 vezes no Planalto.](https://www1.folha.uol.com.br/ambiente/2022/05/general-lobista-de-mineradora-acusada-pelo-mpf-foi-recebido-18-vezes-no-planalto.shtml?utm_source=twitter&utm_medium=social-media&utm_content=geral&utm_campaign=noticias)
+- 
