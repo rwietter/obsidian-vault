@@ -12,6 +12,17 @@
 
 
 ### Explorer
+```ad-info
+Os exploradores de blockchain permitem que você escaneie uma rede blockchain em busca de dados importantes, incluindo transações, endereços, taxas, blocos e muito mais.
+```
 - [Blockchain Explorer](https://www.blockchain.com/explorer?view=btc)
-- [Fantom Explorer](https://explorer.fantom.network/)
-- 
+- [Fantom Explorer](https://explorer.fantom.network/) para Fantom Network
+- [Etherscan.io](https://etherscan.io/ "Site Etherscan") para transações Ethereum.
+- [BNB Beacon Chain Explorer](https://explorer.bnbchain.org/ "Site do explorador da cadeia BNB") para BNB Beacon Chain
+- [BSC Scan](https://bscscan.com/) para Binance Smart Chain.
+- [Blockchair](https://blockchair.com/bitcoin) para Bitcoin.
+- [Tronscan](https://tronscan.org/#/) para Tron
+- [Polygonscan](https://polygonscan.com/) para Polígono
+- [FTMscan](https://ftmscan.com/) para Fantom
+- [Atomscan](https://atomscan.com/) para Atom
+- [Solana Explorer](https://explorer.solana.com/) para Solana
