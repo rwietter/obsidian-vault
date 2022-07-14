@@ -1,0 +1,9 @@
+### Coins
+- Aave
+- Bitcoin
+- AXS
+- ETH
+- AVAX
+- SOL
+- LINK
+- DOT

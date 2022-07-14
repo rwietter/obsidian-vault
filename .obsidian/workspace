@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Repository/Blockchain/Cryptocurrency/Cryptocurrency.md",
+            "file": "Repository/Blockchain/Cryptocurrency/Coins.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Repository/Blockchain/Cryptocurrency/Cryptocurrency.md",
+                "file": "Repository/Blockchain/Cryptocurrency/Coins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,10 +107,10 @@
   },
   "active": "e0e8d5c8304b07d5",
   "lastOpenFiles": [
+    "Repository/Blockchain/Cryptocurrency/Cryptocurrency.md",
     "Repository/Blockchain/Web3.md",
     "Repository/Blockchain/Consensus Protocols.md",
     "Repository/Blockchain/Cryptocurrency/Altcoins.md",
-    "Repository/Blockchain/Cryptocurrency/Cryptocurrency.md",
     "Repository/Blockchain/Smart Contracts/Smart Contracts.md",
     "Repository/Blockchain/NFTs/NFTs.md",
     "Marketplaces Metaverse Cryptomedia.md",
