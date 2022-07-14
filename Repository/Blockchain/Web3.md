@@ -9,6 +9,7 @@
 
 ### Links
 - [Learn Web3 Career](https://web3.career/learn-web3)
+- [Bitcoin Halving 2024](https://academy.binance.com/pt/halving)
 
 
 ### Explorer
