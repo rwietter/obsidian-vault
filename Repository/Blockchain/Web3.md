@@ -7,10 +7,20 @@
 - [[Smart Contracts]]
 - [[Consensus Protocols]]
 
+---
+
 ### Links
 - [Learn Web3 Career](https://web3.career/learn-web3)
 - [Bitcoin Halving 2024](https://academy.binance.com/pt/halving)
 
+---
+
+### Charts
+- [Woobull](https://charts.woobull.com/)
+- [Stock-to-Flow Model](https://www.lookintobitcoin.com/charts/stock-to-flow-model/)
+- 
+
+---
 
 ### Explorer
 ```ad-info
