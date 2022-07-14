@@ -6,6 +6,8 @@
 - [[NFTs]]
 - [[Smart Contracts]]
 - [[Consensus Protocols]]
+- [[DAOs]]
+- [[Tokenomics]]
 
 ---
 
