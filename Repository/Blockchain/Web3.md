@@ -21,8 +21,10 @@
 - [Woobull](https://charts.woobull.com/)
 - [Stock-to-Flow Model](https://www.lookintobitcoin.com/charts/stock-to-flow-model/)
 
+---
+
 ### Insights
-- [Coin metrics]()
+- [Coin Metrics Insights](https://coinmetrics.io/)
 
 ---
 
