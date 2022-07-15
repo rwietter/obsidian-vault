@@ -30,6 +30,9 @@
 - [Coin Metrics Insights](https://coinmetrics.io/)
 - [Dune NFTs Market Share](https://dune.com/hildobby/NFTs)
 - [Dune DEX Metrics](https://dune.com/hagaetc/dex-metrics)
+- [Flips Finance - NFTs](https://www.flips.finance/)
+- [dApps Radar - NFTs Markets](https://dappradar.com/nft)
+- 
 
 ---
 
@@ -55,6 +58,12 @@ Os exploradores de blockchain permitem que você escaneie uma rede blockchain em
 - [FTMscan](https://ftmscan.com/) para Fantom
 - [Atomscan](https://atomscan.com/) para Atom
 - [Solana Explorer](https://explorer.solana.com/) para Solana
+
+---
+
+### Marketplaces
+- [Open Sea NFTs](https://opensea.io/)
+- [Rarible NFTs](https://rarible.com/)
 
 ---
 

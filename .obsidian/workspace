@@ -107,15 +107,15 @@
   },
   "active": "e0e8d5c8304b07d5",
   "lastOpenFiles": [
-    "Repository/Blockchain/DeFi/DeFi.md",
+    "Repository/Blockchain/NFTs/NFTs.md",
+    "Repository/Blockchain/Networks/Solana/Solana.md",
     "Repository/Blockchain/Web3.md",
+    "Repository/Blockchain/DeFi/DeFi.md",
     "Repository/Blockchain/Cryptocurrency/Analise Técnica.md",
     "Repository/Blockchain/Market/Market.md",
     "Repository/política/Finance.md",
     "Repository/política/Política.md",
     "Repository/Blockchain/DAOs/DAOs.md",
-    "Repository/Blockchain/Cryptocurrency/Coins.md",
-    "Repository/Blockchain/Cryptocurrency/Cryptocurrency.md",
-    "Repository/Blockchain/Consensus Protocols.md"
+    "Repository/Blockchain/Cryptocurrency/Coins.md"
   ]
 }
