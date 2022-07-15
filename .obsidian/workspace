@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Repository/Blockchain/Web3.md",
+            "file": "Repository/Blockchain/DAOs/DAOs.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Repository/Blockchain/Web3.md",
+                "file": "Repository/Blockchain/DAOs/DAOs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,9 +107,9 @@
   },
   "active": "e0e8d5c8304b07d5",
   "lastOpenFiles": [
+    "Repository/Blockchain/Web3.md",
     "Repository/Blockchain/NFTs/NFTs.md",
     "Repository/Blockchain/Networks/Solana/Solana.md",
-    "Repository/Blockchain/Web3.md",
     "Repository/Blockchain/DeFi/DeFi.md",
     "Repository/Blockchain/Cryptocurrency/Analise Técnica.md",
     "Repository/Blockchain/Market/Market.md",

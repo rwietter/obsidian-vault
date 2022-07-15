@@ -39,8 +39,12 @@
 ### Research and News
 - [Pew Research](https://www.pewresearch.org/)
 - [Crypto Quant](https://cryptoquant.com/asset/btc/chart/miner-flows)
-- 
 
+---
+
+### News
+- [Watcher.guru](https://watcher.guru/news/?c=1)
+- 
 ---
 
 ### Explorer
@@ -48,6 +52,8 @@
 Os exploradores de blockchain permitem que você escaneie uma rede blockchain em busca de dados importantes, incluindo transações, endereços, taxas, blocos e muito mais.
 ```
 - [Blockchain Explorer](https://www.blockchain.com/explorer?view=btc)
+- [Blockchair Explorer](https://blockchair.com/)
+- [Blockcypher Explorer](https://live.blockcypher.com/)
 - [Fantom Explorer](https://explorer.fantom.network/) para Fantom Network
 - [Etherscan.io](https://etherscan.io/ "Site Etherscan") para transações Ethereum.
 - [BNB Beacon Chain Explorer](https://explorer.bnbchain.org/ "Site do explorador da cadeia BNB") para BNB Beacon Chain
