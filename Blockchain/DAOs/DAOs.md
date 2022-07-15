@@ -17,8 +17,15 @@ As DAOs são construídos de tal forma que só realizarão suas tarefas sob cond
 O proprietário do contrato de um token é um contrato inteligente. O proprietário do contrato inteligente é um contrato separado que se autodestroi na implantação. Isso significa que não há outro contrato ou carteira com permissões para modificar ou pausar o fornecimento de um token. Dessa forma, a emissão de moedas vai seguir o que foi descrito no contrato inicial.
 
 ### O que é um contrato inteligente?
-Um contrato inteligente é um programa de computador que é executado na blockchain Ethereum. Ele pode armazenar tanto funções (pedaços de código que fazem coisas) quanto dados (informações). Contratos inteligentes são frequentemente comparados a máquinas de venda automática. Se você inserir entradas específicas, obterá saídas específicas. Se eu for até uma máquina de venda automática, inserir $ 1 e pressionar o botão “refrigerante de laranja”, então eu pegarei um refrigerante de laranja se houver algum na máquina. Se não houver mais refrigerantes de laranja, devolvo meu dólar.
+Um contrato inteligente é um programa de computador que é executado na blockchain Ethereum. Ele pode armazenar tanto funções (pedaços de código que fazem coisas) quanto dados (informações).
+
+Contratos inteligentes são documentos digitais que seguem cláusulas preestabelecidas, à semelhança dos tradicionais. O cumprimento dessas cláusulas, no entanto, é automático, ou seja, não tem a interferência de qualquer um dos participantes.
+
+**Após estabelecidas as cláusulas do contrato, ele torna-se imutável e não pode mais ser alterado. Sendo que para que ele seja cumprido, ambas as partes do contrato devem cumprir com as cláusulas.**
 
 Os contratos inteligentes funcionam da mesma maneira, as pessoas podem interagir com eles enviando informações com a expectativa de receber resultados ou informações específicas. Assim como a máquina de venda automática não tem uma pessoinha dentro distribuindo refrigerantes, os contratos inteligentes são automáticos (ousamos dizer, autônomos).
 
 #### Contratos LAND e Estate
+
+
+https://www.bloomberglinea.com.br/2021/11/10/a-viabilidade-juridica-dos-contratos-inteligentes-no-brasil/
