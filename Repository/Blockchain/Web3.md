@@ -28,6 +28,8 @@
 
 ### Insights
 - [Coin Metrics Insights](https://coinmetrics.io/)
+- [Dune NFTs Market Share](https://dune.com/hildobby/NFTs)
+- [Dune DEX Metrics](https://dune.com/hagaetc/dex-metrics)
 
 ---
 
