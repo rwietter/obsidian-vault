@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Repository/Blockchain/DAOs/DAOs.md",
+            "file": "Blockchain/Cryptocurrency/Tokenomics.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Repository/Blockchain/DAOs/DAOs.md",
+                "file": "Blockchain/Cryptocurrency/Tokenomics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +107,15 @@
   },
   "active": "e0e8d5c8304b07d5",
   "lastOpenFiles": [
-    "Repository/Blockchain/Web3.md",
-    "Repository/Blockchain/NFTs/NFTs.md",
-    "Repository/Blockchain/Networks/Solana/Solana.md",
-    "Repository/Blockchain/DeFi/DeFi.md",
-    "Repository/Blockchain/Cryptocurrency/Analise Técnica.md",
-    "Repository/Blockchain/Market/Market.md",
-    "Repository/política/Finance.md",
-    "Repository/política/Política.md",
-    "Repository/Blockchain/DAOs/DAOs.md",
-    "Repository/Blockchain/Cryptocurrency/Coins.md"
+    "Blockchain/Cryptocurrency/Trading/Analise Técnica.md",
+    "Blockchain/Cryptocurrency/Trading/Trading.md",
+    "Blockchain/Cryptocurrency/Altcoins.md",
+    "Blockchain/Cryptocurrency/Coins.md",
+    "Blockchain/Cryptocurrency/Cryptocurrency.md",
+    "Blockchain/Cryptocurrency/Tokenomics.md",
+    "Blockchain/Web3.md",
+    "Blockchain/Networks/Networks.md",
+    "Blockchain/DAOs/DAOs.md",
+    "Blockchain/NFTs/NFTs.md"
   ]
 }

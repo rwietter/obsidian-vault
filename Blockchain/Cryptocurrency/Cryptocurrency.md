@@ -2,7 +2,8 @@
 - [[Altcoins]]
 - [[IPO]]
 - [[ICO]]
-- 
+- [[Tokenomics]]
+- [[Trading]]
 
 ---
 
@@ -17,3 +18,13 @@
 	- As taxas de gas são usadas para compensar os mineradores de Ethereum por seu trabalho na verificação de transações, na segurança da rede e compensar desenvolvedores de dApps.
 	- As taxas de gás também ajudam a evitar que a rede fique atolada por usuários mal-intencionados que enviam spam à rede com transações.
 	- A rede calcula a taxa básica com base na demanda e no espaço em bloco. As taxas básicas tendem a ser mais altas quando há um grande número de usuários interagindo com a rede Ethereum. Quando um bloco é minerado, a taxa base é “queimada”, removendo-o de circulação.
+
+### Coins
+- Aave
+- Bitcoin
+- AXS
+- ETH
+- AVAX
+- SOL
+- LINK
+- DOT

@@ -1,0 +1,2 @@
+## Trading
+- [[Analise Técnica]]
