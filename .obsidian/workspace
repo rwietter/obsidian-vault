@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Blockchain/Smart Contracts/Smart Contracts.md",
+            "file": "Blockchain/Cryptocurrency/Cryptocurrency.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blockchain/Smart Contracts/Smart Contracts.md",
+                "file": "Blockchain/Cryptocurrency/Cryptocurrency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +107,15 @@
   },
   "active": "e0e8d5c8304b07d5",
   "lastOpenFiles": [
+    "Blockchain/Cryptocurrency/Altcoins.md",
+    "Blockchain/Smart Contracts/Smart Contracts.md",
     "Blockchain/DAOs/DAOs.md",
     "Blockchain/Web3.md",
     "Blockchain/Cryptocurrency/Tokenomics.md",
     "Blockchain/Cryptocurrency/Trading/Analise Técnica.md",
     "Blockchain/Cryptocurrency/Trading/Trading.md",
-    "Blockchain/Cryptocurrency/Altcoins.md",
     "Blockchain/Cryptocurrency/Coins.md",
     "Blockchain/Cryptocurrency/Cryptocurrency.md",
-    "Blockchain/Networks/Networks.md",
-    "Blockchain/NFTs/NFTs.md"
+    "Blockchain/Networks/Networks.md"
   ]
 }
