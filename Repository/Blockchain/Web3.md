@@ -14,17 +14,27 @@
 ### Links
 - [Learn Web3 Career](https://web3.career/learn-web3)
 - [Bitcoin Halving 2024](https://academy.binance.com/pt/halving)
+- [Chainlist](https://chainlist.org/)
 
 ---
 
 ### Charts
 - [Woobull](https://charts.woobull.com/)
 - [Stock-to-Flow Model](https://www.lookintobitcoin.com/charts/stock-to-flow-model/)
+- [MVRV Z-Score - Fundos e Topos](https://www.lookintobitcoin.com/charts/mvrv-zscore/)
+- 
 
 ---
 
 ### Insights
 - [Coin Metrics Insights](https://coinmetrics.io/)
+
+---
+
+### Research and News
+- [Pew Research](https://www.pewresearch.org/)
+- [Crypto Quant](https://cryptoquant.com/asset/btc/chart/miner-flows)
+- 
 
 ---
 
