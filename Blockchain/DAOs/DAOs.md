@@ -6,10 +6,19 @@
 As DAOs (Organizações descentralizadas) apresentam seu próprio token de governança - alguns baseados em um blockchain interno, outros que atuam como camada 2 em um protocolo existente - que permite que os usuários votem na direção e na supervisão diária do grupo.
 ```
 
-As Organizações Autonomas Decentralizadas são organizações sem vínculos com pessoas para atividades físicas.
+Todos os DAOs, ou organizações autônomas descentralizadas, fazem parte de uma nova abordagem de gerenciamento organizacional e tomada de decisões possibilitada pelo Ethereum. As Organizações Autonomas Decentralizadas são organizações sem vínculos com pessoas para atividades físicas.
+
+A Ethereum ampliou o que é possível com blockchains, adicionando a capacidade de descentralizar o manuseio de dados mais complexos do que apenas registros de propriedade de tokens. A Ethereum fez isso permitindo que as pessoas colocassem contratos inteligentes em uma blockchain.
 
 As DAOs trabalham sobre Smart Contracts, onde o código do contrato é desenvolvido diretamente na organização, após a votação entre todos os detentores de tokens de governança.
 
-Quem tiver mais tokens tem mais votos e influência na organização e pode sugerir melhorias.
+As DAOs são construídos de tal forma que só realizarão suas tarefas sob condições específicas, como a aprovação de uma proposta votada por um grupo de pessoas que possuem um determinado token (como MANA, NAMES ou LAND). Tudo isso é feito em uma blockchain. Quem tiver mais tokens tem mais votos e influência na organização e pode sugerir melhorias. Para fechar uma DAO, é necessário que seja feita uma votação e a votação de maioria para quem prôpos tal questão.
 
-Para fechar uma DAO, é necessário que seja feita uma votação e a votação de maioria para quem prôpos tal questão.
+O proprietário do contrato de um token é um contrato inteligente. O proprietário do contrato inteligente é um contrato separado que se autodestroi na implantação. Isso significa que não há outro contrato ou carteira com permissões para modificar ou pausar o fornecimento de um token. Dessa forma, a emissão de moedas vai seguir o que foi descrito no contrato inicial.
+
+### O que é um contrato inteligente?
+Um contrato inteligente é um programa de computador que é executado na blockchain Ethereum. Ele pode armazenar tanto funções (pedaços de código que fazem coisas) quanto dados (informações). Contratos inteligentes são frequentemente comparados a máquinas de venda automática. Se você inserir entradas específicas, obterá saídas específicas. Se eu for até uma máquina de venda automática, inserir $ 1 e pressionar o botão “refrigerante de laranja”, então eu pegarei um refrigerante de laranja se houver algum na máquina. Se não houver mais refrigerantes de laranja, devolvo meu dólar.
+
+Os contratos inteligentes funcionam da mesma maneira, as pessoas podem interagir com eles enviando informações com a expectativa de receber resultados ou informações específicas. Assim como a máquina de venda automática não tem uma pessoinha dentro distribuindo refrigerantes, os contratos inteligentes são automáticos (ousamos dizer, autônomos).
+
+#### Contratos LAND e Estate

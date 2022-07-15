@@ -16,6 +16,7 @@
 - [Bitcoin Halving 2024](https://academy.binance.com/pt/halving)
 - [Chainlist](https://chainlist.org/)
 - [Binance Academy](https://academy.binance.com/en)
+- [Coinmarketcap Articles](https://coinmarketcap.com/alexandria/pt)
 
 ---
 

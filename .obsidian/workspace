@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Blockchain/Cryptocurrency/Tokenomics.md",
+            "file": "Blockchain/DAOs/DAOs.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blockchain/Cryptocurrency/Tokenomics.md",
+                "file": "Blockchain/DAOs/DAOs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",

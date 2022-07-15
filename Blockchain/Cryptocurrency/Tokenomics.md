@@ -9,5 +9,19 @@ No mundo moderno, coisas como resgates aos bancos e respostas à pandemia exigem
 
 Enquanto os governos supervisionam esse processo, a criação de moeda adicional pode causar uma redução lenta, ou às vezes rápida, do valor do dinheiro existente. Chamamos essa redução de “inflação” e é mais visível quando os preços das coisas que compramos aumentam ano após ano.
 
+```ad-attention
+Em seu famoso livro sobre investimentos, **Margin of Safety**, a lenda do investimento de valor, Seth Klarman, explica que, “No curto prazo, a oferta e demanda por si só determinam o preço do mercado.” Neste caso, há uma série de fatores a serem considerados. Talvez **o mais importante seja entender como a moeda digital será usada**. Existe uma ligação clara entre o uso da plataforma ou serviço que está sendo construído e o ativo? Se houver, há uma grande chance de que um serviço em expansão exija a compra e o uso que, em última análise, ajudam a aumentar o preço. Se não houver, para que o token pode ser usado?
+
+- Quantas moedas e tokens existem atualmente?
+- Quantas vão existir no futuro e quando serão criados?
+- Quem é o dono das moedas? Existem alguns itens reservados para serem lançados no futuro para os desenvolvedores?
+- Existe alguma informação que sugira que um grande número de moedas foi perdido, queimado, apagado ou de alguma forma inutilizado?
+```
+
 ### Bitcoin
 No total, serão produzidos apenas 21 milhões de Bitcoin. Todo o processo terminará por volta de 2140. Até lá, o número de novas moedas criadas pelo processo de mineração irá diminuir pela metade, aproximadamente, a cada quatro anos. Isso é conhecido como o halving do Bitcoin e foi projetado para criar, o que os economistas chamam de, escassez, proporcionando pressão ascendente nos preços.
+
+### Queima de moedas
+```ad-hint
+Queimar moedas significa que elas serão transferidas para uma carteira que não poderá ser recuperada. A queima normalmente está relacionada às taxas de operação, logo, quanto mais um ativo é usado, mais rápido seus tokens são queimados. ‍
+```
