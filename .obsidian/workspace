@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Streaming/ToDo Filmes&Séries.md",
+            "file": "Blockchain/Web3.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Streaming/ToDo Filmes&Séries.md",
+                "file": "Blockchain/Web3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +107,15 @@
   },
   "active": "e0e8d5c8304b07d5",
   "lastOpenFiles": [
+    "Blockchain/Consensus Protocols.md",
+    "Blockchain/Smart Contracts/Smart Contracts.md",
+    "Streaming/ToDo Filmes&Séries.md",
     "Blockchain/Cryptocurrency/Trading/Indicators.md",
     "Blockchain/Web3.md",
-    "Blockchain/Consensus Protocols.md",
     "Blockchain/Cryptocurrency/Cryptocurrency.md",
     "Blockchain/Cryptocurrency/Altcoins.md",
-    "Blockchain/Smart Contracts/Smart Contracts.md",
     "Blockchain/DAOs/DAOs.md",
     "Blockchain/Cryptocurrency/Tokenomics.md",
-    "Blockchain/Cryptocurrency/Trading/Analise Técnica.md",
-    "Blockchain/Cryptocurrency/Trading/Trading.md"
+    "Blockchain/Cryptocurrency/Trading/Analise Técnica.md"
   ]
 }
