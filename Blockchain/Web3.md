@@ -65,6 +65,7 @@ Os exploradores de blockchain permitem que você escaneie uma rede blockchain em
 - [Polygonscan](https://polygonscan.com/) para Polígono
 - [FTMscan](https://ftmscan.com/) para Fantom
 - [Atomscan](https://atomscan.com/) para Atom
+- [XRPScan](https://xrpscan.com/) para XRP
 - [Solana Explorer](https://explorer.solana.com/) para Solana
 
 ---
