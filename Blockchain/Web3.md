@@ -46,6 +46,7 @@
 
 ### News
 - [Watcher.guru](https://watcher.guru/news/?c=1)
+- [Ethereum Fear and Greed](https://ethereumfear.com/pt)
 - 
 ---
 
