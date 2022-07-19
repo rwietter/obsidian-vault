@@ -1,6 +1,5 @@
 ### Proof of Work
 
-
 ### Proof of Stake
 
 ### Proof of Work

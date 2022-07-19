@@ -34,7 +34,6 @@
 - [Dune DEX Metrics](https://dune.com/hagaetc/dex-metrics)
 - [Flips Finance - NFTs](https://www.flips.finance/)
 - [dApps Radar - NFTs Markets](https://dappradar.com/nft)
-- 
 
 ---
 
@@ -58,7 +57,7 @@ Os exploradores de blockchain permitem que você escaneie uma rede blockchain em
 - [Blockchair Explorer](https://blockchair.com/)
 - [Blockcypher Explorer](https://live.blockcypher.com/)
 - [Fantom Explorer](https://explorer.fantom.network/) para Fantom Network
-- [Etherscan.io](https://etherscan.io/ "Site Etherscan") para transações Ethereum.
+- [Etherscan.io](https://etherscan.io/ "Site Etherscan") para transações Ethereum
 - [BNB Beacon Chain Explorer](https://explorer.bnbchain.org/ "Site do explorador da cadeia BNB") para BNB Beacon Chain
 - [BSC Scan](https://bscscan.com/) para Binance Smart Chain.
 - [Blockchair](https://blockchair.com/bitcoin) para Bitcoin.
