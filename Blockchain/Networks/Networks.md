@@ -27,11 +27,25 @@
 - As operações na layer 2 geralmente podem ser executadas independentemente da layer 1. É por isso que às vezes são chamadas de soluções "off-chain". A layer 1 pode fornecer a segurança inerente a uma blockchain, a layer 2 pode fornecer a velocidade.
 - Como as transações na layer 2 estão acontecendo em uma chain diferente, uma conexão é aberta periodicamente para mover essas transações para o blockchain principal. Essa conexão às vezes é chamada de *bridge* ou *channel*. Portanto, uma consideração importante para uma solução de layer 2 é como as transações são validadas e confirmadas antes de serem movidas para a chain principal.
 
-**Dimenssões da rede**
+#### Dimenssões da rede
 - Execução da transações
 	- As estratégias de execução de transações lidam com como as transações são executadas, onde são executadas, quais são os ambientes de confiança, quais são os ambientes de segurança e descentralização, etc.
 - Disponibilidade de dados
 	- As estratégias de disponibilidade de dados lidam com se a solução da Camada 2 disponibiliza ou não seus dados de transação na cadeia principal da Camada 1.
+
+#### Layer 2 Scaling Solutions
+- State Channels
+- Side Chains
+- Rollups
+	- Optimistic Rollups (ORs)
+	- Zero-Knowledge Rollups (ZKRs)
+	- ZKR vs OR
+	- Plasma
+- Validiums
+- Volitions
+
+**State Channels**
+
 
 ---
 ### Transações
@@ -49,4 +63,5 @@ R: As operações na layer 2 geralmente podem ser realizadas independentemente d
 3. O que são blockchains de camada 2 ? A
 R: Projetado para ajudar a layer 1 com taxa de transferência e taxas de transação.
 
-4. 
+4. Quais são as dimensões nas quais as soluções de dimensionamento da Camada 2 têm abordagens diferentes?
+R: Transaction Execution and Data Availability

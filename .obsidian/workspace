@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#layer2-1",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,7 +50,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -105,7 +106,7 @@
     "width": 427.71697998046875,
     "collapsed": true
   },
-  "active": "fb256620f3812f7f",
+  "active": "4ceb9e16e54b58ea",
   "lastOpenFiles": [
     "Blockchain/Web3.md",
     "Blockchain/NFTs/NFTs.md",
