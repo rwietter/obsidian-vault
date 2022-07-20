@@ -46,6 +46,10 @@
 
 **State Channels**
 - State Channels foram a primeira abordagem de dimensionamento generalizada para blockchains. State Channels são usados quando dois ou mais usuários desejam fazer várias transações em um ambiente confiável sem pagar taxa todas as vezes.
+- Problema: em um game de NFT xadrez onde há dois players, por exemplo, cada movimento de cada player é registrado como uma transação + taxa, normalmente. Com State Channels, é possível evitar pagar taxas em cada movimento, já que essa feature executa em off-chain realizando um registro incial e um final, um contrato inteligente é criado e ambos os players depositam o dinheiro, estando ele bloqueado até o final do game. O canal aberto permanecerá aberto até que o contrato inteligente seja completado encerrando a ultima transação e enviando pra main-chain. Assim, realizando apenas duas transações com registro a main-chain.
+
+**Side Chains**
+- 
 
 ---
 ### Transações
