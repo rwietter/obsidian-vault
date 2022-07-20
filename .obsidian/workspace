@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data/Our Brazil in Data.md",
+            "file": "Blockchain/Networks/Networks.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data/Our Brazil in Data.md",
+                "file": "Blockchain/Networks/Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +107,7 @@
   },
   "active": "e94eeb7cb35fb25f",
   "lastOpenFiles": [
+    "Data/Our Brazil in Data.md",
     "Blockchain/Networks/Networks.md",
     "Blockchain/Web3.md",
     "Blockchain/NFTs/NFTs.md",
@@ -115,7 +116,6 @@
     "Blockchain/DeFi/DeFi.md",
     "Blockchain/Consensus Protocols.md",
     "Inteligência Artificial/inteligência artificial.md",
-    "Repository/cursos/omnistack.md",
-    "Blockchain/Smart Contracts/Smart Contracts.md"
+    "Repository/cursos/omnistack.md"
   ]
 }

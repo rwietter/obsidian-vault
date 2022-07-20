@@ -45,7 +45,7 @@
 - Volitions
 
 **State Channels**
-
+- State Channels foram a primeira abordagem de dimensionamento generalizada para blockchains. State Channels são usados quando dois ou mais usuários desejam fazer várias transações em um ambiente confiável sem pagar taxa todas as vezes.
 
 ---
 ### Transações
