@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "fb256620f3812f7f",
+        "id": "e94eeb7cb35fb25f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Blockchain/Networks/Networks.md",
+            "file": "Data/Our Brazil in Data.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#layer2-1",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,8 +50,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blockchain/Networks/Networks.md",
+                "file": "Data/Our Brazil in Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,8 +105,9 @@
     "width": 427.71697998046875,
     "collapsed": true
   },
-  "active": "4ceb9e16e54b58ea",
+  "active": "e94eeb7cb35fb25f",
   "lastOpenFiles": [
+    "Blockchain/Networks/Networks.md",
     "Blockchain/Web3.md",
     "Blockchain/NFTs/NFTs.md",
     "Blockchain/DAOs/DAOs.md",
@@ -116,7 +116,6 @@
     "Blockchain/Consensus Protocols.md",
     "Inteligência Artificial/inteligência artificial.md",
     "Repository/cursos/omnistack.md",
-    "Blockchain/Smart Contracts/Smart Contracts.md",
-    "Streaming/ToDo Filmes&Séries.md"
+    "Blockchain/Smart Contracts/Smart Contracts.md"
   ]
 }
