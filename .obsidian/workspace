@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Blockchain/Web3.md",
+            "file": "Blockchain/Networks/Networks.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blockchain/Web3.md",
+                "file": "Blockchain/Networks/Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,11 +107,11 @@
   },
   "active": "fb256620f3812f7f",
   "lastOpenFiles": [
+    "Blockchain/Web3.md",
     "Blockchain/NFTs/NFTs.md",
     "Blockchain/DAOs/DAOs.md",
     "Blockchain/Networks/Solana/Solana.md",
     "Blockchain/DeFi/DeFi.md",
-    "Blockchain/Web3.md",
     "Blockchain/Consensus Protocols.md",
     "Inteligência Artificial/inteligência artificial.md",
     "Repository/cursos/omnistack.md",
