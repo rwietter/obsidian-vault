@@ -5,6 +5,7 @@ STF
 Armas
 - [Decisão inédita: juíza contraria Exército e autoriza loja a importar e vender silenciadores a CACs](https://oglobo.globo.com/brasil/seguranca-publica/noticia/2022/05/decisao-inedita-juiza-contraria-exercito-e-autoriza-loja-a-importar-e-vender-silenciadores-a-cacs.ghtml?utm_source=Twitter&utm_medium=Social&utm_campaign=O%20Globo)
 - [Armas do PCC apreendidas tinham sido compradas com licença para colecionador](https://noticias.r7.com/sao-paulo/armas-do-pcc-apreendidas-tinham-sido-compradas-com-licenca-para-colecionador-03062022)
+- [Integrante do PCC comprou fuzil com autorização do Exército, diz PF](https://www1.folha.uol.com.br/cotidiano/2022/07/integrante-do-pcc-comprou-fuzil-com-autorizacao-do-exercito-diz-pf.shtml?utm_source=twitter&utm_medium=social&utm_campaign=twfolha)
 
 Pandemia
 - [Relatório do TCU diz que governo não tem 'estratégia minimamente detalhada' contra pandemia](https://g1.globo.com/politica/noticia/2020/12/21/relatorio-do-tcu-diz-que-governo-nao-tem-estrategia-minimamente-detalhada-contra-a-pandemia-de-covid-19.ghtml)

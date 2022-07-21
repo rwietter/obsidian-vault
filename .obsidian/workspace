@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Blockchain/Networks/Networks.md",
+            "file": "Repository/política/Política.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blockchain/Networks/Networks.md",
+                "file": "Repository/política/Política.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,8 +107,8 @@
   },
   "active": "e94eeb7cb35fb25f",
   "lastOpenFiles": [
-    "Data/Our Brazil in Data.md",
     "Blockchain/Networks/Networks.md",
+    "Data/Our Brazil in Data.md",
     "Blockchain/Web3.md",
     "Blockchain/NFTs/NFTs.md",
     "Blockchain/DAOs/DAOs.md",
