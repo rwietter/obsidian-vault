@@ -47,10 +47,20 @@
 **State Channels**
 - State Channels foram a primeira abordagem de dimensionamento generalizada para blockchains. State Channels são usados quando dois ou mais usuários desejam fazer várias transações em um ambiente confiável sem pagar taxa todas as vezes.
 - Problema: em um game de NFT xadrez onde há dois players, por exemplo, cada movimento de cada player é registrado como uma transação + taxa, normalmente. Com State Channels, é possível evitar pagar taxas em cada movimento, já que essa feature executa em off-chain realizando um registro incial e um final, um contrato inteligente é criado e ambos os players depositam o dinheiro, estando ele bloqueado até o final do game. O canal aberto permanecerá aberto até que o contrato inteligente seja completado encerrando a ultima transação e enviando pra main-chain. Assim, realizando apenas duas transações com registro a main-chain.
+
 <img src="https://i.imgur.com/jBbWJoT.png" width="50%"  />
 
 **Side Chains**
-- 
+- Uma Side Chain é uma blockchain independente compatível com EVM que é executada em paralelo a uma blockchain principal e tem um canal para a layer 1. A Side Chain tem seus próprios validadores e método de consenso para adicionar blocos. Side Chains acumulam transações de forma rápida e barata e as resumem na chain principal por meio de uma bridge ou channel.
+- Como as Side Chains são como mini blockchains de Ethereum. Side Chains vêm com todos os benefícios de um EVM, assim como contratos inteligentes em solidez e interagir com a chain usando APIs web3.
+- As desvantagens das Side Chains são que elas podem ser mais centralizadas. Por exemplo, se o protocolo de consenso deles usar uma abordagem menos segura ou menos descentralizada para ter maior taxa de transferência de transações e esses nodes conspirarem para cometer fraudes.
+- Importante observar que, ao contrário de outras soluções abaixo, as cadeias laterais tecnicamente não são da camada 2 porque não usam a segurança da cadeia principal, mas são frequentemente chamadas como tal.
+
+<img src="https://i.imgur.com/aAPEmI7.png" width="80%"  />
+
+**Rollups**
+- Rollups são soluções que executam transações na layer 2, mas registram dados da transação na layer 1, de forma agrupada ou resumida. Pense nos rollups como uma operação de "zip and merge". Ao mover a computação para fora da chain, eles liberam mais espaço na chain. A disponibilidade de dados Onchain é crucial, pois permite que o Ethereum verifique novamente a integridade das transações de rollup. Ao contrário dos State Channels, os dados de transação que os rollups registram na chain principal podem ser verificados como corretos ou incorretos, e a execução do rollup não precisa acontecer em um ambiente confiável. 
+- Os rollups funcionam implantando um conjunto de contratos inteligentes na layer 1 que são responsáveis por depósitos, saques e verificação de provas. As provas são a principal distinção entre os diferentes tipos de rollups. Em geral, existem dois tipos de rollups: Optimistic Rollups and Zero-Knowledge Rollups.
 
 ---
 ### Transações
@@ -73,3 +83,7 @@ R: Transaction Execution and Data Availability
 
 5. Why can state channels not be operated in a trustless environment?
 R: All layer 2 scaling solutions require trusted setups
+
+6. Can side chains be considered as Layer 2's
+RE: No
+
