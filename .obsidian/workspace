@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Repository/política/Política.md",
+            "file": "Blockchain/Teoria.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Repository/política/Política.md",
+                "file": "Blockchain/Teoria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +107,15 @@
   },
   "active": "e94eeb7cb35fb25f",
   "lastOpenFiles": [
+    "Blockchain/Web3.md",
+    "Blockchain/Teoria.md",
     "Blockchain/Networks/Networks.md",
     "Data/Our Brazil in Data.md",
-    "Blockchain/Web3.md",
+    "Repository/política/Política.md",
     "Blockchain/NFTs/NFTs.md",
     "Blockchain/DAOs/DAOs.md",
     "Blockchain/Networks/Solana/Solana.md",
     "Blockchain/DeFi/DeFi.md",
-    "Blockchain/Consensus Protocols.md",
-    "Inteligência Artificial/inteligência artificial.md",
-    "Repository/cursos/omnistack.md"
+    "Blockchain/Consensus Protocols.md"
   ]
 }

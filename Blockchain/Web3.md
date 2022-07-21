@@ -40,6 +40,7 @@
 ### Research and News
 - [Pew Research](https://www.pewresearch.org/)
 - [Crypto Quant](https://cryptoquant.com/asset/btc/chart/miner-flows)
+-  [Web3 Foundation](https://web3.foundation/research/)
 
 ---
 
@@ -79,12 +80,18 @@ Os exploradores de blockchain permitem que você escaneie uma rede blockchain em
 ### Papers
 - [ ] "A Certified Digital Signature" - Ralph C. Merkle, 1979.
 - [ ] "Untraceable Electronic Mail, Return Addresses, and Digital Pseudonyms" - David Chaum, 1981.
-- [ ] "Computer Systems Established, Maintained and Trusted by Mutually Suspicious Groups" - David Chaum, 1982.
-- [ ] "How to Timestamp a Digital Document" - Stuart Haber, W. Scott Stornetta, 1991.
-- [ ] "Smart Contracts" -Nick Szabo, 1994.
+- [ ] "Computer Systems Established, Maintained and Trusted by Mutually Suspicious Groups" - David Chaum, 1982. 
+- [ ] **"How to Timestamp a Digital Document" - Stuart Haber, W. Scott Stornetta, 1991**.
+- [ ] **"Improving the Efficiency and Reliability of Digital Time-Stamping" - W. Scott Tornetta**.
+- [ ] **“Pricing via Processing, Or, Combatting Junk Mail, Advances in Cryptology” -  Cynthia Dwork**.
+- [ ] **"RPoW: Reusable Proofs of Work" - Hal Finney**.
+- [ ] "Smart Contracts" - Nick Szabo, 1994.
 - [ ] "Bitcoin: A Peer-to-Peer Electronic Cash System" - Satoshi Nakamoto, 2008.
 - [ ] "Ethereum: A Next Generation Smart Contract & Decentralized Application Platform" - Vitalik Buterin, 2013.
 - [ ] "Zerocash: Decentralized Anonymous Payments from Bitcoin" - Eli Ben Sasson et al., 2014.
 - [ ] "A Note on Cryptocurrency Stabilisation: Seigniorage Shares" - Robert Sams, 2014.
 - [ ] "The Bitcoin Lightning Network: Scalable Off-Chain Instant Payments" - Joseph Poon, Thaddeus Dryja, 2016.
 - [ ] "Uniswap v2 Core" - Hayden Adams, Noah Zinsmeister, Dan Robinson, 2020
+
+---
+
