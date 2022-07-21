@@ -13,4 +13,14 @@ O bitcoin foi um estudo lançado entre a Crise financeira de 2007–2008 mundial
 - "Bitcoin: A Peer-to-Peer Electronic Cash System" - Satoshi Nakamoto, 2008.
 
 ### Blockchain 1.0
-A blockchain é um sitema de rede ponto-a-ponto decentralizada e distribuida. Ela conta com muitos rec
+A blockchain é um sitema de rede ponto-a-ponto decentralizada e distribuida. Ela conta com muitos recursos como:
+- Criptografia
+- Consenso
+- Registro de Transações
+- Contratos Inteligêntes
+- Eventos
+- Comunicação
+- Armazenamento de Dados
+- API
+
+O objetivo do Bitcoin foi resolver o problema de Ponto Crítico através dessa decentralização dos servidores (nodes), lidar com o problema de gasto duplo e garantir a segurança e anonimato dos usuários.
