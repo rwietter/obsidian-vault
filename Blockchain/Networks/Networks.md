@@ -61,6 +61,7 @@
 **Rollups**
 - Rollups são soluções que executam transações na layer 2, mas registram dados da transação na layer 1, de forma agrupada ou resumida. Pense nos rollups como uma operação de "zip and merge". Ao mover a computação para fora da chain, eles liberam mais espaço na chain. A disponibilidade de dados Onchain é crucial, pois permite que o Ethereum verifique novamente a integridade das transações de rollup. Ao contrário dos State Channels, os dados de transação que os rollups registram na chain principal podem ser verificados como corretos ou incorretos, e a execução do rollup não precisa acontecer em um ambiente confiável. 
 - Os rollups funcionam implantando um conjunto de contratos inteligentes na layer 1 que são responsáveis por depósitos, saques e verificação de provas. As provas são a principal distinção entre os diferentes tipos de rollups. Em geral, existem dois tipos de rollups: Optimistic Rollups and Zero-Knowledge Rollups.
+	- Optimistic Rollups: 
 
 ---
 ### Transações
