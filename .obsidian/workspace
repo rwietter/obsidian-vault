@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Repository/articles.md",
+            "file": "Blockchain/NFTs/NFTs.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Repository/articles.md",
+                "file": "Blockchain/NFTs/NFTs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,12 +107,12 @@
   },
   "active": "e94eeb7cb35fb25f",
   "lastOpenFiles": [
+    "Repository/articles.md",
     "Repository/ui/README.md",
     "Repository/blogs_guides.md",
     "Repository/devdocs.md",
     "Repository/devtools.md",
     "Repository/README.md",
-    "Repository/articles.md",
     "Repository/web-fundamentals.md",
     "Repository/política/Política.md",
     "Blockchain/Teoria.md",
