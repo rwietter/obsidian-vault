@@ -23,4 +23,5 @@ Corrupção
 - [General lobista de mineradora acusada pelo MPF foi recebido 18 vezes no Planalto.](https://www1.folha.uol.com.br/ambiente/2022/05/general-lobista-de-mineradora-acusada-pelo-mpf-foi-recebido-18-vezes-no-planalto.shtml?utm_source=twitter&utm_medium=social-media&utm_content=geral&utm_campaign=noticias)
 - [Codevasf fez licitação sem justificativa, superfaturada e direcionada para desovar emendas](https://www1.folha.uol.com.br/poder/2022/07/codevasf-fez-licitacao-sem-justificativa-superfaturada-e-direcionada-para-desovar-emendas.shtml?utm_source=twitter&utm_medium=social&utm_campaign=twfolha)
 - [Partido de Bolsonaro, PL gasta dinheiro público com carro desaparecido e com empresas de dirigentes e familiares](https://oglobo.globo.com/politica/noticia/2022/07/partido-de-bolsonaro-pl-usou-dinheiro-publico-ate-para-carro-que-desapareceu.ghtml)
+- [Condenação de militares por mau uso de recursos avança, e TCU vê recado a Bolsonaro](https://www1.folha.uol.com.br/poder/2022/07/condenacao-de-militares-por-mau-uso-de-recursos-avanca-e-tcu-ve-recado-a-bolsonaro.shtml?utm_source=twitter&utm_medium=social&utm_campaign=twfolha)
 - 
