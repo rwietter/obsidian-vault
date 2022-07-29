@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Repository/política/Política.md",
+            "file": "Blockchain/Networks/Ethereum/Ethereum.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Repository/política/Política.md",
+                "file": "Blockchain/Networks/Ethereum/Ethereum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +107,15 @@
   },
   "active": "e94eeb7cb35fb25f",
   "lastOpenFiles": [
+    "Blockchain/Cryptocurrency/Altcoins.md",
+    "Blockchain/Web3.md",
+    "Repository/política/Política.md",
     "Repository/política/Finance.md",
     "Blockchain/NFTs/NFTs.md",
     "Repository/articles.md",
     "Repository/ui/README.md",
     "Repository/blogs_guides.md",
     "Repository/devdocs.md",
-    "Repository/devtools.md",
-    "Repository/README.md",
-    "Repository/web-fundamentals.md",
-    "Repository/política/Política.md"
+    "Repository/devtools.md"
   ]
 }
